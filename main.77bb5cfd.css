@@ -122,7 +122,7 @@ nav a:hover::after, nav a:focus::after {
 
 .hero::after {
   content: "";
-  background: var(--clr-neutra-transp);
+  background: var(--clr-neutral-transp);
   position: absolute;
   inset: 0;
   z-index: 0;
