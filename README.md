@@ -1,4 +1,4 @@
-Source code for https://marvvl.netlify.app/
+Source code for https://marvell.netlify.app/
 
 This was a project i did for a graphic design class in October 2021
 
